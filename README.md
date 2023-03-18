@@ -1,17 +1,17 @@
 # SMS-BOMBING
 🐸 SMS BOMBING 🐸
 
-<b></b><br> [![Facebook](https://img.shields.io/badge/Facebook-VELOX-blue?style=flat-square&logo=facebook)](https://www.facebook.com/V3L0X.ME)<br> 
-<!----[![WhatsApp](https://img.shields.io/badge/WhatsApp-VELOX-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/KaOw5reZB5KJqBZtvvP0Fk) -->
+<b></b><br> [![Facebook](https://img.shields.io/badge/Facebook-VELOX-blue?style=flat-square&logo=facebook)](https://www.facebook.com/biehta.ceutee.3)<br> 
+<!----[![WhatsApp](https://img.shields.io/badge/WhatsApp-VELOX-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/GxrKlaA3eccHtPpcCqQ7P9) -->
 
 
-<h1 align="center"> VELOX-XD </h1>
+<h1 align="center"> DRUBOTZ </h1>
 
 
-<h3 align="center">  SMS-BOMBING TOOL  </h3>
+<h3 align="center">  CRACKING FACEBOOK TOOL  </h3>
 
 
-![20200808_160757](https://github.com/Andrew-Velox/SMS-BOMBING/blob/main/ss.jpg)
+![20200808_160757](https://github.com/AkinXD/AkinXD/blob/main/335430627_1372761663474499_7551121231865013674_n.jpg)
 
 
 ## <b>Installation</b>
