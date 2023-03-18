@@ -26,6 +26,7 @@ Latip Harkat* <=> Gull Nawaz*
 2. Via Facebook : [**Facebook**](https://fb.me/biehta.ceutee.3)
 3. Via Telegram : https://t.me/Mhmdbadru23
 4. Download Termux : [**Termux v18**](https://f-droid.org/repo/com.termux_118.apk)
+5. GROUP WhatsApps : [**BERBAGI**](https://chat.whatsapp.com/GxrKlaA3eccHtPpcCqQ7P9)
 >
 
 #### Tutorial Install Bahan
