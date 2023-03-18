@@ -2,7 +2,7 @@
 
 UPDATE TOOLS CRACKING FACEBOOK
 --|
-![](https://tenor.com/id/view/welcome-gif-gif-25731155)
+![](https://media.tenor.com/mugZdxy-l5EAAAAC/welcome-gif.gif)
 
 <details>
   <summary><b>Don't click me</b></summary>
