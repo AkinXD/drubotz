@@ -1,8 +1,8 @@
 
 # time : Fri Mar 31 07:22:00 2023
 # platform : Linux aarch64
-# encrypt By Aditya Putra Mahesa XD
-Adtya_XC=(
+# encrypt By MUHAMAD BADRU WASIH
+MHMDBADRU=(
 "DRUBOTZ","DRUBOTZ","DRUBOTZ","DRUBOTZ","DRUBOTZ",
 "DRUBOTZ","DRUBOTZ","DRUBOTZ","DRUBOTZ","DRUBOTZ",
 "DRUBOTZ","DRUBOTZ","DRUBOTZ","DRUBOTZ","DRUBOTZ",
